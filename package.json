@@ -1,0 +1,9 @@
+{
+  "name": "hide-menu-bar",
+  "main": "./main",
+  "engines": {
+    "mailspring": ">=1.0.8"
+  },
+  "description": "Mailspring plugin to hide the menu bar.",
+  "license": "MIT"
+}
